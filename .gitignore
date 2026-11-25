@@ -1,0 +1,11 @@
+# 运行时配置由 MaiBot 自动生成，里面有你自己的 API Key，不要提交
+/config.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 打包产物
+*.zip
